@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Generated output images
+generated_image_*.png
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
